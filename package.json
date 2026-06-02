@@ -1,0 +1,17 @@
+{
+  "name": "associatedpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "prompts": "^2.4.2",
+    "puppeteer": "^19.4.0"
+  }
+}
